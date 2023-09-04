@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Notepad App Actions" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-09-04T08:43:54" hostname="GEMGN-210415" time="99.17">
+  <properties/>
+  <testcase name="Open the Notepad App" classname="Notepad App Actions" time="11.453"/>
+  <testcase name="Create and Modify Text Notes" classname="Notepad App Actions" time="56.347"/>
+  <testcase name="Change the Day of the Week" classname="Notepad App Actions" time="7.301"/>
+  <testcase name="Search for a Text Note" classname="Notepad App Actions" time="2.069"/>
+  <testcase name="Delete Text Notes and Archive Text Note" classname="Notepad App Actions" time="16.109"/>
+  <testcase name="Verify Delete and Archive Notes" classname="Notepad App Actions" time="5.891"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Sep 04, 2023 2:14:04 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+[Test worker] INFO logger.Logger - 2:14 PM
+[Test worker] INFO logger.Logger - 2:14 PM
+[Test worker] INFO logger.Logger - 2:14 PM
+[Test worker] INFO logger.Logger - 2:14 PM
+[Test worker] INFO logger.Logger - 2:14 PM
+]]></system-err>
+</testsuite>
